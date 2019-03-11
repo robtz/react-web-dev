@@ -4,31 +4,16 @@ In order to run this project, it's necessary to install some dependencies which 
 
 ## Node.js and NPM
 
-The version used in this project of Node.js is **10.15.2**.
+Node.js is an open-source and cross-platform JavaScript runtime environment and among other things it's neccesary to install it as a part of this project because we need to use a package manager which in this case is going to be **yarn**.
 
-## Live Server
+Node.js can be downloaded [here](https://nodejs.org/es/)
 
-Live Server is a little development server with live reload capability. In order to install live server it's necessary to run the next command:
+The version of Node.js used into this project is **10.15.2**.
 
-```
-npm install -g live-server
-```
+## Yarn
 
-The version used for this project is **1.2.1**.
+Yarn is a JavaScript Package Manager which is compatible with the NPM packages.
 
-In order to use the live server inside the project it's necessary to run into the project folder the next command:
+This package manager can be downloded [here](https://yarnpkg.com/en/docs/install#windows-stable).
 
-```
-live-server public
-```
-
-## Babel 
-
-Babel it's a JS compiler that is used into this project to translate the JSX instructions into normal JS.
-
-In order to install it, it's necessary to run the next commands:
-
-```
-npm install -g babel-cli@6.24.1
-
-```
+The version of Yarn used to install all the libraries and dependencies used into this project is **1.13.0**.
