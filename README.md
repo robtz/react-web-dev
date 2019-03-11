@@ -6,7 +6,7 @@ In order to run this project, it's necessary to install some dependencies which 
 
 Node.js is an open-source and cross-platform JavaScript runtime environment and among other things it's neccesary to install it as a part of this project because we need to use a package manager which in this case is going to be **yarn**.
 
-Node.js can be downloaded [here](https://nodejs.org/es/)
+Node.js can be downloaded [here](https://nodejs.org/es/).
 
 The version of Node.js used into this project is **10.15.2**.
 
