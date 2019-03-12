@@ -1,0 +1,11 @@
+// Presets & Plugins used by Babel.
+
+{
+    "presets": [
+        "env", 
+        "react"
+    ],
+    "plugins": [
+        "transform-class-properties"
+    ]
+}
